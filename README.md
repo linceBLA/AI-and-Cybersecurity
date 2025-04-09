@@ -1,4 +1,4 @@
-# AI-and-Cybersecurity
+# AI and Cybersecurity
 
 ### Audience  
 This presentation was delivered at the **Consulate of France in Houston** to members of the French expat community. The goal was to offer a clear and accessible introduction to artificial intelligence (AI) while raising awareness about the new types of cyber risks individuals may face as AI becomes more integrated into everyday life.
@@ -16,3 +16,4 @@ The presentation then explored AI’s role in cybersecurity. On the positive sid
 The final part of the presentation focused on prevention and best practices. Participants were advised to **never share personal information with AI systems**, to **choose trustworthy platforms**, and to **always verify AI-generated information**, recognizing that AI can make mistakes or be influenced by biased data. The limitations of AI and the importance of critical thinking were emphasized to encourage responsible and informed use.
 
 ### Presentation in French
+Link: <a href="https://github.com/linceBLA/AI-and-Cybersecurity/blob/main/AI-and-Cybersecurity.pdf">AI and Cybersecurity<a/>
